@@ -1,4 +1,3 @@
-![My card name](https://cardivo.vercel.app/api?name=V1P3R-X&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/88338865?s=400&u=3202387e356f0e30cb5bad5986e9394957ff02d7&v=4?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=omg_devil_ff&github=D-3-V-1-L&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
        
